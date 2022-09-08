@@ -1,0 +1,12 @@
+.container{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: large;
+    text-align: center;
+    margin: 2cm;
+}
+li.mango{
+color: brown;
+}
+[type~=green]{
+background-color: aquamarine;
+}
